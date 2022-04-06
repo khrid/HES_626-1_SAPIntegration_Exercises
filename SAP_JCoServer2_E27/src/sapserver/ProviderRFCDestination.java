@@ -18,8 +18,8 @@ public class ProviderRFCDestination implements DestinationDataProvider {
 			this._destination.setProperty(DestinationDataProvider.JCO_ASHOST, "vlhsapd20");
 			this._destination.setProperty(DestinationDataProvider.JCO_SYSNR, "60");
 			this._destination.setProperty(DestinationDataProvider.JCO_CLIENT, "100");
-			this._destination.setProperty(DestinationDataProvider.JCO_USER, "M626E-03");
-			this._destination.setProperty(DestinationDataProvider.JCO_PASSWD, "m626e-03");
+			this._destination.setProperty(DestinationDataProvider.JCO_USER, "******");
+			this._destination.setProperty(DestinationDataProvider.JCO_PASSWD, "*****");
 			this._destination.setProperty(DestinationDataProvider.JCO_LANG, "EN");
 			this._destination.setProperty(DestinationDataProvider.JCO_SAPROUTER, "/H/saprouter.hevs.ch/S/3299/H/");
 	}
